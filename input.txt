@@ -1,0 +1,7 @@
+addCinema(0, 1, 4, 5, 10)
+addShow(1, 4, 0, 1, 1710516108725, 1710523308725)
+listCinemas(0, 1)
+bookTicket("tkt-1", 1, 4)
+getFreeSeatsCount(1)
+cancelTicket("tkt-1")
+getFreeSeatsCount(1)
